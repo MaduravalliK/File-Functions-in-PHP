@@ -1,0 +1,5 @@
+PHP File System
+In this tutorial you will learn how to create, access (or read) and manipulate files dynamically using the PHP's file system functions.
+
+Working with Files in PHP
+Since PHP is a server side programming language, it allows you to work with files and directories stored on the web server. In this tutorial you will learn how to create, access, and manipulate files on your web server using the PHP file system functions.
